@@ -1,0 +1,14 @@
+C:\Dibs\Events\Events.Data\bin\Debug\Events.Data.dll.config
+C:\Dibs\Events\Events.Data\bin\Debug\Events.Data.dll
+C:\Dibs\Events\Events.Data\bin\Debug\Events.Data.pdb
+C:\Dibs\Events\Events.Data\bin\Debug\EntityFramework.dll
+C:\Dibs\Events\Events.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dibs\Events\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Dibs\Events\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Dibs\Events\Events.Data\bin\Debug\EntityFramework.xml
+C:\Dibs\Events\Events.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dibs\Events\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Dibs\Events\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Dibs\Events\Events.Data\obj\Debug\Events.Data.dll
+C:\Dibs\Events\Events.Data\obj\Debug\Events.Data.pdb
+C:\Dibs\Events\Events.Data\obj\Debug\Events.Data.csprojResolveAssemblyReference.cache
